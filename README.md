@@ -62,7 +62,7 @@ run()
 
 more functions can be found in the
 
-- [Skeet Solana Utils TypeDoc](https://elsoul.github.io/skeet-spreadsheet-utils/)
+- [Skeet Spreadsheet Utils TypeDoc](https://elsoul.github.io/skeet-spreadsheet-utils/)
 
 ## Contributing
 
